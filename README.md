@@ -7,3 +7,5 @@ to the next level. There are 19 levels total.
 Concepts:
 The game is mainly based on using MouseEvents, and uses a LinkedList to store all the characters. 
 Arrays are used to store the images from the sprite sheets.
+
+Finally Finished!!
